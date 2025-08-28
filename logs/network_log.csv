@@ -1,0 +1,7 @@
+timestamp,name,host,ip,status,extra
+2025-08-29T01:51:47.673256,Google,google.com,142.250.67.46,UP,https:True
+2025-08-29T01:51:47.673256,DNS,8.8.8.8,8.8.8.8,UP,https:True
+2025-08-29T01:51:53.086152,Google,google.com,142.250.67.46,UP,https:True
+2025-08-29T01:51:53.086152,DNS,8.8.8.8,8.8.8.8,UP,https:True
+2025-08-29T01:51:58.291443,Google,google.com,142.250.67.46,UP,https:True
+2025-08-29T01:51:58.291443,DNS,8.8.8.8,8.8.8.8,UP,https:True
